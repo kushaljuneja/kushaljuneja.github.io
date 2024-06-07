@@ -1,6 +1,6 @@
-# ekzhang.github.io
+# kushaljuneja.github.io
 
-Source code for my [personal website](https://www.ekzhang.com/), hosted on
+Source code for my personal website hosted on
 GitHub Pages.
 
 This website is powered by [SvelteKit](https://kit.svelte.dev/) and
