@@ -2,12 +2,12 @@
   <div class="row">
     <span>Twitter</span>
     <hr />
-    <a class="link" href="https://twitter.com/JunejaKushak">@JunejaKushal</a>
+    <a class="link" href="https://twitter.com/JunejaKushal">@JunejaKushal</a>
   </div>
   <div class="row no-wrap">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="#">kushal-juneja</a>
+    <a class="link" href="https://in.linkedin.com/in/kushal-juneja-40133419a">kushal-juneja</a>
   </div>
 </footer>
 
