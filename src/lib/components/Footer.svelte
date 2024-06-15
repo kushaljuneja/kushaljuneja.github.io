@@ -4,7 +4,7 @@
     <hr />
     <a class="link" href="https://twitter.com/JunejaKushak">@JunejaKushal</a>
   </div>
-  <div class="row">
+  <div class="row no-wrap">
     <span>LinkedIn</span>
     <hr />
     <a class="link" href="#">kushal-juneja</a>

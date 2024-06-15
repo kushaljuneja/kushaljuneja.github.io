@@ -39,3 +39,7 @@ body {
 .dark {
   color-scheme: dark;
 }
+
+.no-wrap {
+  white-space: nowrap;
+}

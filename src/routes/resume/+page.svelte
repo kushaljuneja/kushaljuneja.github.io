@@ -5,7 +5,6 @@
 
 <Seo
   title="Kushal Juneja – Resume"
-  description="Resume"
 />
 
 <section class="layout-md py-12">
