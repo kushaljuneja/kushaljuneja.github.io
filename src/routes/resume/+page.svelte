@@ -3,9 +3,7 @@
   import Workplace from "./Workplace.svelte";
 </script>
 
-<Seo
-  title="Kushal Juneja – Resume"
-/>
+<Seo title="Kushal Juneja – Resume" />
 
 <section class="layout-md py-12">
   <h2 class="heading2">Education</h2>
@@ -20,9 +18,7 @@
 
   <h4 class="font-medium mt-4 mb-1">Teaching:</h4>
   <ul>
-    <li>
-      TA for Distributed Systems, Winter 2023
-    </li>
+    <li>TA for Distributed Systems, Winter 2023</li>
   </ul>
 
   <h4 class="font-medium mt-4 mb-1">Graduate-level technical coursework:</h4>
@@ -60,10 +56,7 @@
     dates="July 2023 – Current"
     location="Bangalore, India"
   >
-    <li>
-      Doing something here...
-    </li>
-    
+    <li>Doing something here...</li>
   </Workplace>
 
   <Workplace
@@ -73,9 +66,7 @@
     dates="May 2022 - July 2023"
     location="Gurugram, IN"
   >
-    <li>
-      Did something here using Golang.
-    </li>
+    <li>Did something here using Golang.</li>
   </Workplace>
 
   <Workplace
@@ -85,9 +76,7 @@
     dates="Aug 2022 - May 2023"
     location="New Delhi, IN"
   >
-    <li>
-      Climate science related thing done here...
-    </li>
+    <li>Climate science related thing done here...</li>
   </Workplace>
 
   <Workplace
@@ -97,9 +86,7 @@
     dates="Jan 2022 to May 2023"
     location="New Delhi, IN"
   >
-    <li>
-      Did something here...
-    </li>
+    <li>Did something here...</li>
   </Workplace>
 
   <Workplace
@@ -109,9 +96,7 @@
     dates="Feb 2022 to March 2022"
     location="New Delhi, IN"
   >
-    <li>
-      Designed initial website for Centre for AI, IIIT-Delhi.
-    </li>
+    <li>Designed initial website for Centre for AI, IIIT-Delhi.</li>
   </Workplace>
 
   <Workplace
@@ -121,9 +106,7 @@
     dates="May 2022 to July 2022"
     location="New Delhi, IN"
   >
-    <li>
-      Summer Camp during Covid
-    </li>
+    <li>Summer Camp during Covid</li>
   </Workplace>
 </section>
 
