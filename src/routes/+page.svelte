@@ -25,9 +25,6 @@
   </div>
 
   <div class="space-y-5">
-    <img
-      alt="Kushal Juneja"
-      src="/assets/images/KushalJuneja.JPG"
-    />
+    <img alt="Kushal Juneja" src="/assets/images/KushalJuneja.JPG" />
   </div>
 </div>

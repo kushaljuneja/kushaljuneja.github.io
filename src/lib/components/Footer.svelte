@@ -7,7 +7,9 @@
   <div class="row no-wrap">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://in.linkedin.com/in/kushal-juneja-40133419a">kushal-juneja</a>
+    <a class="link" href="https://in.linkedin.com/in/kushal-juneja-40133419a"
+      >kushal-juneja</a
+    >
   </div>
 </footer>
 
