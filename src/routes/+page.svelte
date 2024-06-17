@@ -26,7 +26,7 @@
 
   <div class="space-y-5">
     <img
-      alt="Kushal Juneja profile picture"
+      alt="Kushal Juneja"
       src="/assets/images/KushalJuneja.JPG"
     />
   </div>
