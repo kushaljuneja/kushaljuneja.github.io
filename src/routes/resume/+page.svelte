@@ -32,7 +32,7 @@
     <li>Data Mining</li>
   </ul>
 
-  <h4 class="font-medium mt-4 mb-1">Undergraduate technical coursework:</h4>
+  <h4 class="font-medium mt-4 mb-1">Undergraduate coursework:</h4>
   <ul>
     <li>Computer Networks</li>
     <li>Operating Systems</li>
@@ -43,16 +43,19 @@
     <li>Probability and Statistics</li>
     <li>Prototyping Interactive Systems</li>
     <li>Abstract Algebra</li>
+    <li>Microeconomics</li>
+    <li>Foundations of Finance</li>
+    <li>Portfolio Valuation and Management</li>
   </ul>
 </section>
 
-<section class="layout-md py-12">
+<section class="layout-md">
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
     title="Analyst"
     company="Goldman Sachs"
-    url="#"
+    url="https://www.goldmansachs.com/"
     dates="July 2023 – Current"
     location="Bangalore, India"
   >
@@ -62,51 +65,54 @@
   <Workplace
     title="Summer Intern"
     company="Droom"
-    url="#"
+    url="https://droom.in"
     dates="May 2022 - July 2023"
     location="Gurugram, IN"
   >
-    <li>Did something here using Golang.</li>
+    <li>Did something here using Golang, Oauth2 and micro-services...</li>
   </Workplace>
 
   <Workplace
     title="Research Intern"
     company="CAS-IITD"
-    url="#"
+    url="https://dcecm.iitd.ac.in/index.html"
     dates="Aug 2022 - May 2023"
     location="New Delhi, IN"
   >
-    <li>Climate science related thing done here...</li>
+    <li>Did some work on Climate Science here...</li>
   </Workplace>
 
   <Workplace
     title="Undergrad Researcher"
     company="LCS2-IIITD"
-    url="#"
+    url="https://lcs2.in"
     dates="Jan 2022 to May 2023"
     location="New Delhi, IN"
   >
-    <li>Did something here...</li>
+    <li>Did some work on AI here...</li>
   </Workplace>
 
   <Workplace
     title="Intern"
     company="CAI - IIITD"
-    url="#"
+    url="https://iiitd.ac.in/"
     dates="Feb 2022 to March 2022"
     location="New Delhi, IN"
   >
-    <li>Designed initial website for Centre for AI, IIIT-Delhi.</li>
+    <li>Designed initial website for Centre for CAI, IIIT-Delhi.</li>
   </Workplace>
 
   <Workplace
     title="Teacher"
     company="Summer Camp - IIITD"
-    url="#"
+    url="https://iiitd.ac.in/"
     dates="May 2022 to July 2022"
     location="New Delhi, IN"
   >
-    <li>Summer Camp during Covid</li>
+    <li>
+      Volunteered to teach school students logical reasoning and english via
+      online zoom lessons during covid times. Also gave a talk on JEE prep.
+    </li>
   </Workplace>
 </section>
 

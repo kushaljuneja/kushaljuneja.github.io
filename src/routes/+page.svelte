@@ -6,18 +6,29 @@
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
-    <p>I currently work as an Analyst at Goldman Sachs.</p>
+    <p>I currently work as an Analyst at Goldman Sachs, Bangalore.</p>
 
     <p>
-      Previously, I worked with <a class="link" href="#">Droom</a>,
-      <a class="link" href="#">CAS-IITD</a>, and
-      <a class="link" href="#">LCS2-IIITD</a>.
+      Previously, I have worked with <a
+        class="link"
+        href="https://droom.in"
+        target="_blank">Droom</a
+      >,
+      <a class="link" href="https://dcecm.iitd.ac.in/index.html" target="_blank"
+        >CAS-IITD</a
+      >, and
+      <a class="link" href="https://lcs2.in/" target="_blank">LCS2-IIITD</a>.
     </p>
 
     <p>
       I recently graduated from IIIT-Delhi, where I studied Computer Science,
-      wrote my <a class="link" rel="external" href="#"
-        >thesis on application of deep learning for Indian Monsoon Forecasting</a
+      and wrote my <a
+        class="link"
+        rel="external"
+        href="https://www.nature.com/articles/s41598-023-44284-3"
+        target="_blank"
+        >undergrad thesis on using AI to accurately forecast All India Summer
+        Monsoon Rainfall</a
       >.
     </p>
 

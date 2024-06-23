@@ -13,3 +13,23 @@ This website is powered by [SvelteKit](https://kit.svelte.dev/) and
 $ npm install
 $ npm run dev
 ```
+
+---
+
+## Steps
+
+- once done with changes, format code using :
+
+```
+npm run format
+```
+
+- commit code files
+
+```
+git add .
+git commit -m "<commit log>"
+```
+
+- push changes to github. This will start the CI-CD pipeline and deploy latest
+  version of code using github pages.
